@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jane-vsk.github.io/totem/sitemap.xml
+Sitemap: https://totemspb.ru/sitemap.xml
