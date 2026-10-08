@@ -1,0 +1,21 @@
+{
+  "name": "TOTEM — мастерская кожи и мотосидений",
+  "short_name": "TOTEM",
+  "lang": "ru",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090909",
+  "theme_color": "#090909",
+  "icons": [
+    {
+      "src": "assets/favicon.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/totem-logo-mark.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ]
+}
